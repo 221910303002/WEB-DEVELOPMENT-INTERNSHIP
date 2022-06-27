@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset = "UTF-8">
+<meta name = "viewport" content = "width=device-width,initial-scale=1.0">
+<title> ADMIRE PAGE</title>
+<link rel = "stylesheet" href="style20.css">
+</head>
+<body>
+<section class="main">
+   <h2 class="title"> Ram Gopal Varma</h2>
+   <p>
+   Director and producer for tollywood and bollywood industry. He is great philosopher</p>
+<div class="image-div">
+      <img src="C:\Users\LENOVO\Dropbox\PC\Desktop\PROJECT PICS\hhh.jpg" alt="MYFAV" id="image">
+      <figcaption id="img-caption">
+       Director and Producer and great Philosopher.
+      </figcaption>
+</div>
+<div class="tribute-info">
+    <ul>
+    <li>
+       <strong>Born-1965</strong>
+       <span>April 7 Vijayawada, Andhra Pradesh</span>
+    </li>
+    <li>
+    <strong>Occupation</strong>
+    <span>Director and Producer for both tollywood and bollywood</span>
+    </li>
+    <li>
+    <strong>Known for</strong>
+    <span> Films,books and Ramuism YouTube series</span>
+    </li>
+    <li>
+    <strong>Books</strong>
+    	<span>Naa-Istam</span>
+    	<span>Vodka with Ramu</span>
+    </li>
+    <li>
+    	<strong> Movies</strong>
+    	<span>86</span>
+    </li>
+    <li>
+    	<strong>Awards</strong>
+    	<span> Filmfare for Best Director,Filmfare for best film, Nandi Award for best director for various films</span>
+    </li> 
+    </ul>
+    </div>
+    <div id="links">
+    <h3> More Information</h3>
+    <a href="https://en.wikipedia.org/wiki/Ram_Gopal_Varma" id="tribute-link" target="_blank">RGV-Wikipedia</a>
+    <a href = "https://www.youtube.com/watch?v=f8ZX8wnraps&list=PLwUkzqL9e05xOskEmylP4zUVkz0RBzUzU" id="tribute-link" target="_blank">Ramuism</a>
+ </div>
+ </section>
+</body>
+</html>
+
+
